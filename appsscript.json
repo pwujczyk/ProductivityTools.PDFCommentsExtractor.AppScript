@@ -1,12 +1,7 @@
 {
   "timeZone": "Europe/Warsaw",
-  "dependencies": {},
-  "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8",
-  "executionApi": {
-    "access": "ANYONE"
+  "dependencies": {
   },
-  "oauthScopes": [
-    "https://www.googleapis.com/auth/drive.readonly"
-  ]
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
 }
